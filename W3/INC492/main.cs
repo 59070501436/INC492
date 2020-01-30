@@ -20,11 +20,13 @@ namespace INC492
             //printex3.print(500.263);
             // printex3.print("Hello c# world");
             // Console.ReadKey();
-            Car car;
-            car = new Car("Red");
-            Console.WriteLine(car.Describe());
-            car = new Car("Green");
-            Console.WriteLine(car.Describe());
+            //ex4
+            //Car car;
+            //car = new Car("Red");
+            //Console.WriteLine(car.Describe());
+            //car = new Car("Green");
+            //Console.WriteLine(car.Describe());
+            //ex5
 
 
             
