@@ -15,11 +15,16 @@ namespace INC492
             ///print funtion type all
             ///
             ///ex3
-            Printdata printex3 = new Printdata();
-            printex3.print(5);
-            printex3.print(500.263);
-            printex3.print("Hello c# world");
-            Console.ReadKey();
+            //Printdata printex3 = new Printdata();
+            // printex3.print(5);
+            //printex3.print(500.263);
+            // printex3.print("Hello c# world");
+            // Console.ReadKey();
+            Car car;
+            car = new Car("Red");
+            Console.WriteLine(car.Describe());
+            car = new Car("Green");
+            Console.WriteLine(car.Describe());
 
 
             
