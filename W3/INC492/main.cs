@@ -6,12 +6,23 @@ namespace INC492
     {
         public static void Main(string[] args)
         {
-            Rectangle r = new Rectangle();
-            r.length = 4.5;
-            r.width = 3.5;
-            r.Display();
-
+            Rectangle rectangle = new Rectangle();
+            ///Ex2
+           // rectangle.Accptdetails();
+            ////Ex1
+            //rectangle.Display();
             Console.WriteLine("Hello World!");
+            ///print funtion type all
+            ///
+            ///ex3
+            Printdata printex3 = new Printdata();
+            printex3.print(5);
+            printex3.print(500.263);
+            printex3.print("Hello c# world");
+            Console.ReadKey();
+
+
+            
 
         }
     }

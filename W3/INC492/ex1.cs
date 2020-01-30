@@ -7,6 +7,17 @@ namespace INC492
         public double length;
         public double width;
 
+        public void Accptdetails()
+        {
+            Console.WriteLine("Enter Length");
+            length = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter width");
+            width = Convert.ToDouble(Console.ReadLine());
+
+
+        }
+        
+        
         public double GetAree()
         {
             return length * width;
