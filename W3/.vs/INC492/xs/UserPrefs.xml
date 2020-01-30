@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C6A87D31-FE5D-46A9-88D1-1C50DA9EBD9A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="INC492/main.cs">
+    <Files>
+      <File FileName="INC492/Program.cs" Line="27" Column="47" />
+      <File FileName="INC492/Program2.cs" Line="3" Column="1" />
+      <File FileName="INC492/ex2.cs" Line="22" Column="1" />
+      <File FileName="INC492/ex4.cs" Line="20" Column="10" />
+      <File FileName="INC492/ex5.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="INC492" expanded="True">
+            <Node name="INC492" expanded="True">
+              <Node name="main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.INC492 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
