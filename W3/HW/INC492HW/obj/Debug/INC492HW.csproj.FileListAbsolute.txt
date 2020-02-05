@@ -1,0 +1,5 @@
+/Users/punyapatareerob/Desktop/WORK/INC492/HW/W03/INC492HW/INC492HW/bin/Debug/INC492HW.exe
+/Users/punyapatareerob/Desktop/WORK/INC492/HW/W03/INC492HW/INC492HW/bin/Debug/INC492HW.pdb
+/Users/punyapatareerob/Desktop/WORK/INC492/HW/W03/INC492HW/INC492HW/obj/Debug/INC492HW.csprojAssemblyReference.cache
+/Users/punyapatareerob/Desktop/WORK/INC492/HW/W03/INC492HW/INC492HW/obj/Debug/INC492HW.exe
+/Users/punyapatareerob/Desktop/WORK/INC492/HW/W03/INC492HW/INC492HW/obj/Debug/INC492HW.pdb
