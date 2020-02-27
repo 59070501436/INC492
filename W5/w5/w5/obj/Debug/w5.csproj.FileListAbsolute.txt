@@ -1,0 +1,5 @@
+/Users/punyapatareerob/Desktop/WORK/INC492/W5/w5/w5/bin/Debug/w5.exe
+/Users/punyapatareerob/Desktop/WORK/INC492/W5/w5/w5/bin/Debug/w5.pdb
+/Users/punyapatareerob/Desktop/WORK/INC492/W5/w5/w5/obj/Debug/w5.csprojAssemblyReference.cache
+/Users/punyapatareerob/Desktop/WORK/INC492/W5/w5/w5/obj/Debug/w5.exe
+/Users/punyapatareerob/Desktop/WORK/INC492/W5/w5/w5/obj/Debug/w5.pdb
